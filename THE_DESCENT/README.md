@@ -3,4 +3,4 @@
 Loops, maximum
 ---------------
 
-The goal was to mark the highest mountain to shoot down - the maximum - and give its index.
+The goal is to mark the highest mountain to shoot down - the maximum - and give its index.
